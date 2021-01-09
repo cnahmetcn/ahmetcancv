@@ -6,7 +6,7 @@ Kurulum
 
     * npm i -g firebase-tools
     * firebase login
-    * firebase init
-    *firebase deploy
+    * firebase init (y/NNNN)
+    * firebase deploy
 
 https://ahmetcancv.web.app
